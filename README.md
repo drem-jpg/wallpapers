@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/drem-jpg/wallpapers">
-    <img src="waves.jpg" alt="waves">
+    <img src="walls/waves.jpg" alt="waves">
   </a>
 
   <h3 align="center">wallpapers</h3>
