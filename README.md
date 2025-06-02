@@ -1,10 +1,14 @@
 <br />
+<div align="center">
+  <a href="https://github.com/drem-jpg/wallpapers">
+    <img src="waves.png" alt="waves">
+  </a>
 
-  <h3 align="center">wallpapers</h3>
+  <h3 align="center">dots</h3>
 
   <p align="center">
-    my wallpaper collection of over 400 wallpapers to use!
-  </p>
+    my wallpaper collection of over 400 wallpapers!
+    </p>
 </div>
 
 ### apps i use
