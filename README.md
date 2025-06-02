@@ -25,7 +25,11 @@
 ```sh
 git clone https://github.com/drem-jpg/wallpapers.git
 ```
-2. use gnu stow to add wallpapers to 'Pictures/walls' directory
+2. cd into repo
+```sh
+cd wallpapers
+```
+3. use gnu stow to add wallpapers to 'Pictures/walls' directory
 ```sh
 stow .
 ```
